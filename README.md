@@ -318,7 +318,7 @@ handlers are specific to the given MCU - these are interrupt handlers for
 peripherals. Simpler MCUs with few peripherals have few interrupt handlers,
 and more complex MCUs have many.
 
-Vector table for STM32F429 is documented in Table 62. From there we can learn
+Vector table for STM32F429 is documented in Table 63. From there we can learn
 that there are 91 peripheral handlers, in addition to the standard 16.
 
 Every entry in the vector table is an address of a function that MCU executes

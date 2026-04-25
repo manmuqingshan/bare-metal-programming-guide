@@ -299,7 +299,7 @@ verilen MCU'ya özeldir -bunlar çevre birimleri için kesme işleyicileridir-.
 Birkaç çevre birimli basit MCU'larda az sayıda kesme yakalayıcısı varken MCU
 karmaşıklaştıkça bu sayı da artar.
 
-STM32F429 için vektör tablosu Tablo 62'de verilmiştir. Buradan standart 16'ya
+STM32F429 için vektör tablosu Tablo 63'de verilmiştir. Buradan standart 16'ya
 ek olarak 91 çevresel işleyici olduğunu görebiliriz.
 
 Vektör tablosundaki her değer, MCU'nun yürüttüğü bir işlevin adresidir.
